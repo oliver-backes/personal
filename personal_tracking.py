@@ -29,4 +29,4 @@ oev = input('Enter OEV count: ')
 
 print "Here are the personal health indicators that you entered. Are they correct?"
 
-print "date: %d; weight: %d; calories: %d; steps: %d; exercise - count: %d; exercise - min: %d; water: %d; and OEV: %d" (date, weight, calories, steps, exercisecount, exercisemin, water, oev)
+print "date: %d; weight: %d; calories: %d; steps: %d; exercise - count: %d; exercise - min: %d; water: %d; and OEV: %d" % (date, weight, calories, steps, exercisecount, exercisemin, water, oev)
